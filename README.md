@@ -1,2 +1,2 @@
-# Snake-AI
-Watch AI playing the classic game of snake.
+# SnakeGame Automated
+Watch the automated game of snake using AI-Search Methods.
